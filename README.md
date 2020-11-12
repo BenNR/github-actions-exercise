@@ -19,3 +19,5 @@ docker build . -t my-app
 ```bash
 docker run -p 8080:8080 my-app
 ```
+
+![alt text](https://miro.medium.com/max/875/1*WY7ELhXIVxbGlUwmhA1PSw.jpeg)
